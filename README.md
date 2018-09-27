@@ -1,6 +1,6 @@
 # Web-scraping-c5
 
-## c5 web scraping by python
+## c5 web scraping with python
 
 Main is c5game.py
 
