@@ -137,7 +137,7 @@ def get_item_name(item_id):
 def send_email_history_prices(item_id):        
     mail_host = 'smtp.163.com'
     mail_user = 'tigertang1998'
-    mail_pass = 'TangHu1998'
+    mail_pass = '##passwordhere##'
     sender = 'tigertang1998@163.com'
     receivers = ['1070880522@qq.com']
     content = str(get_history_prices(item_id))
